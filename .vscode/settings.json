@@ -1,0 +1,9 @@
+{
+    "dbt.deferConfigPerProject": {
+        "dbt_transformation": {
+            "deferToProduction": true,
+            "favorState": true
+        }
+    },
+    "dbt.dbtIntegration": "core"
+}
